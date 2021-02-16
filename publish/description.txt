@@ -1,0 +1,13 @@
+Share your file in local network fast
+
+
+
+
+
+A simple application to share your file in local network.
+
+
+Features:
+ - Share the file to multiple friends via browser and only one click.
+ - Share the file while using other apps.
+ - Simplified user interface, only two buttons in a dialog.
